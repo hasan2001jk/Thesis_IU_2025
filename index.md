@@ -2,117 +2,117 @@
 
 Package Hierarchies:
 
-*   [com.cdancy.jenkins.rest](com/cdancy/jenkins/rest/package-tree.html),
-*   [com.cdancy.jenkins.rest.auth](com/cdancy/jenkins/rest/auth/package-tree.html),
-*   [com.cdancy.jenkins.rest.binders](com/cdancy/jenkins/rest/binders/package-tree.html),
-*   [com.cdancy.jenkins.rest.config](com/cdancy/jenkins/rest/config/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.common](com/cdancy/jenkins/rest/domain/common/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.crumb](com/cdancy/jenkins/rest/domain/crumb/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.job](com/cdancy/jenkins/rest/domain/job/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.plugins](com/cdancy/jenkins/rest/domain/plugins/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.queue](com/cdancy/jenkins/rest/domain/queue/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.statistics](com/cdancy/jenkins/rest/domain/statistics/package-tree.html),
-*   [com.cdancy.jenkins.rest.domain.system](com/cdancy/jenkins/rest/domain/system/package-tree.html),
-*   [com.cdancy.jenkins.rest.exception](com/cdancy/jenkins/rest/exception/package-tree.html),
-*   [com.cdancy.jenkins.rest.fallbacks](com/cdancy/jenkins/rest/fallbacks/package-tree.html),
-*   [com.cdancy.jenkins.rest.features](com/cdancy/jenkins/rest/features/package-tree.html),
-*   [com.cdancy.jenkins.rest.filters](com/cdancy/jenkins/rest/filters/package-tree.html),
-*   [com.cdancy.jenkins.rest.handlers](com/cdancy/jenkins/rest/handlers/package-tree.html),
-*   [com.cdancy.jenkins.rest.parsers](com/cdancy/jenkins/rest/parsers/package-tree.html)
+*   [com.cdancy.jenkins.rest](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/package-summary.html),
+*   [com.cdancy.jenkins.rest.auth](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/auth/package-summary.html),
+*   [com.cdancy.jenkins.rest.binders](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/binders/package-summary.html),
+*   [com.cdancy.jenkins.rest.config](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/config/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.common](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.crumb](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/crumb/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.job](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.plugins](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/plugins/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.queue](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/queue/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.statistics](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/statistics/package-summary.html),
+*   [com.cdancy.jenkins.rest.domain.system](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/system/package-summary.html),
+*   [com.cdancy.jenkins.rest.exception](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/exception/package-summary.html),
+*   [com.cdancy.jenkins.rest.fallbacks](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/package-summary.html),
+*   [com.cdancy.jenkins.rest.features](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/package-summary.html),
+*   [com.cdancy.jenkins.rest.filters](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/filters/package-summary.html),
+*   [com.cdancy.jenkins.rest.handlers](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/handlers/package-summary.html),
+*   [com.cdancy.jenkins.rest.parsers](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/package-summary.html)
 
 ## Class Hierarchy
 
 *   java.lang.Object
     *   com.google.inject.AbstractModule (implements com.google.inject.Module)
-        *   com.cdancy.jenkins.rest.config.[JenkinsAuthenticationModule](com/cdancy/jenkins/rest/config/JenkinsAuthenticationModule.html "class in com.cdancy.jenkins.rest.config")
+        *   com.cdancy.jenkins.rest.config.[JenkinsAuthenticationModule](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/config/JenkinsAuthenticationModule.html)
         *   org.jclouds.rest.config.RestModule
             *   org.jclouds.rest.config.HttpApiModule<A>
-                *   com.cdancy.jenkins.rest.config.[JenkinsHttpApiModule](com/cdancy/jenkins/rest/config/JenkinsHttpApiModule.html "class in com.cdancy.jenkins.rest.config")
-    *   com.cdancy.jenkins.rest.domain.job.[Action](com/cdancy/jenkins/rest/domain/job/Action.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.job.[Artifact](com/cdancy/jenkins/rest/domain/job/Artifact.html "class in com.cdancy.jenkins.rest.domain.job")
+                *   com.cdancy.jenkins.rest.config.[JenkinsHttpApiModule](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/config/JenkinsHttpApiModule.html)
+    *   com.cdancy.jenkins.rest.domain.job.[Action](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Action.html)
+    *   com.cdancy.jenkins.rest.domain.job.[Artifact](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Artifact.html)
     *   org.jclouds.apis.internal.BaseApiMetadata (implements org.jclouds.apis.ApiMetadata)
         *   org.jclouds.rest.internal.BaseHttpApiMetadata<A> (implements org.jclouds.rest.HttpApiMetadata<A>)
-            *   com.cdancy.jenkins.rest.[JenkinsApiMetadata](com/cdancy/jenkins/rest/JenkinsApiMetadata.html "class in com.cdancy.jenkins.rest")
+            *   com.cdancy.jenkins.rest.[JenkinsApiMetadata](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsApiMetadata.html)
     *   org.jclouds.apis.internal.BaseApiMetadata.Builder<T> (implements org.jclouds.apis.ApiMetadata.Builder<B>)
         *   org.jclouds.rest.internal.BaseHttpApiMetadata.Builder<A,T> (implements org.jclouds.rest.HttpApiMetadata.Builder<A,T>)
-            *   com.cdancy.jenkins.rest.[JenkinsApiMetadata.Builder](com/cdancy/jenkins/rest/JenkinsApiMetadata.Builder.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.binders.[BindMapToForm](com/cdancy/jenkins/rest/binders/BindMapToForm.html "class in com.cdancy.jenkins.rest.binders") (implements org.jclouds.rest.Binder)
-    *   com.cdancy.jenkins.rest.domain.job.[BuildInfo](com/cdancy/jenkins/rest/domain/job/BuildInfo.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.parsers.[BuildNumberToInteger](com/cdancy/jenkins/rest/parsers/BuildNumberToInteger.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.domain.job.[Cause](com/cdancy/jenkins/rest/domain/job/Cause.html "class in com.cdancy.jenkins.rest.domain.job")
+            *   com.cdancy.jenkins.rest.[JenkinsApiMetadata.Builder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsApiMetadata.Builder.html)
+    *   com.cdancy.jenkins.rest.binders.[BindMapToForm](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/binders/BindMapToForm.html) (implements org.jclouds.rest.Binder)
+    *   com.cdancy.jenkins.rest.domain.job.[BuildInfo](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/BuildInfo.html)
+    *   com.cdancy.jenkins.rest.parsers.[BuildNumberToInteger](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/BuildNumberToInteger.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.domain.job.[Cause](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Cause.html)
     *   org.jclouds.domain.Credentials
-        *   com.cdancy.jenkins.rest.[JenkinsAuthentication](com/cdancy/jenkins/rest/JenkinsAuthentication.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.domain.crumb.[Crumb](com/cdancy/jenkins/rest/domain/crumb/Crumb.html "class in com.cdancy.jenkins.rest.domain.crumb") (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"))
-    *   com.cdancy.jenkins.rest.parsers.[CrumbParser](com/cdancy/jenkins/rest/parsers/CrumbParser.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.domain.job.[Culprit](com/cdancy/jenkins/rest/domain/job/Culprit.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.common.[Error](com/cdancy/jenkins/rest/domain/common/Error.html "class in com.cdancy.jenkins.rest.domain.common")
-    *   com.cdancy.jenkins.rest.domain.queue.[Executable](com/cdancy/jenkins/rest/domain/queue/Executable.html "class in com.cdancy.jenkins.rest.domain.queue")
-    *   com.cdancy.jenkins.rest.parsers.[FolderPathParser](com/cdancy/jenkins/rest/parsers/FolderPathParser.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.domain.common.[IntegerResponse](com/cdancy/jenkins/rest/domain/common/IntegerResponse.html "class in com.cdancy.jenkins.rest.domain.common") (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"), com.cdancy.jenkins.rest.domain.common.[Value](com/cdancy/jenkins/rest/domain/common/Value.html "interface in com.cdancy.jenkins.rest.domain.common")<T>)
-    *   com.cdancy.jenkins.rest.[JenkinsAuthentication.Builder](com/cdancy/jenkins/rest/JenkinsAuthentication.Builder.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.filters.[JenkinsAuthenticationFilter](com/cdancy/jenkins/rest/filters/JenkinsAuthenticationFilter.html "class in com.cdancy.jenkins.rest.filters") (implements org.jclouds.http.HttpRequestFilter)
-    *   com.cdancy.jenkins.rest.config.[JenkinsAuthenticationProvider](com/cdancy/jenkins/rest/config/JenkinsAuthenticationProvider.html "class in com.cdancy.jenkins.rest.config") (implements com.google.inject.Provider<T>)
-    *   com.cdancy.jenkins.rest.[JenkinsClient](com/cdancy/jenkins/rest/JenkinsClient.html "class in com.cdancy.jenkins.rest") (implements java.io.Closeable)
-    *   com.cdancy.jenkins.rest.[JenkinsClient.Builder](com/cdancy/jenkins/rest/JenkinsClient.Builder.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.[JenkinsConstants](com/cdancy/jenkins/rest/JenkinsConstants.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.handlers.[JenkinsErrorHandler](com/cdancy/jenkins/rest/handlers/JenkinsErrorHandler.html "class in com.cdancy.jenkins.rest.handlers") (implements org.jclouds.http.HttpErrorHandler)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.html "class in com.cdancy.jenkins.rest.fallbacks")
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.CrumbOnError](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.CrumbOnError.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.IntegerResponseOnError](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.IntegerResponseOnError.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.JENKINS\_21311](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.JENKINS_21311.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.PluginsOnError](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.PluginsOnError.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.RequestStatusOnError](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.RequestStatusOnError.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.SystemInfoOnError](com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.SystemInfoOnError.html "class in com.cdancy.jenkins.rest.fallbacks") (implements org.jclouds.Fallback<V>)
-    *   com.cdancy.jenkins.rest.filters.[JenkinsNoCrumbAuthenticationFilter](com/cdancy/jenkins/rest/filters/JenkinsNoCrumbAuthenticationFilter.html "class in com.cdancy.jenkins.rest.filters") (implements org.jclouds.http.HttpRequestFilter)
-    *   com.cdancy.jenkins.rest.[JenkinsUtils](com/cdancy/jenkins/rest/JenkinsUtils.html "class in com.cdancy.jenkins.rest")
-    *   com.cdancy.jenkins.rest.domain.job.[Job](com/cdancy/jenkins/rest/domain/job/Job.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.job.[JobInfo](com/cdancy/jenkins/rest/domain/job/JobInfo.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.job.[JobList](com/cdancy/jenkins/rest/domain/job/JobList.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.parsers.[LocationToQueueId](com/cdancy/jenkins/rest/parsers/LocationToQueueId.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.parsers.[OptionalFolderPathParser](com/cdancy/jenkins/rest/parsers/OptionalFolderPathParser.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.parsers.[OutputToProgressiveText](com/cdancy/jenkins/rest/parsers/OutputToProgressiveText.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.domain.statistics.[OverallLoad](com/cdancy/jenkins/rest/domain/statistics/OverallLoad.html "class in com.cdancy.jenkins.rest.domain.statistics")
-    *   com.cdancy.jenkins.rest.domain.job.[Parameter](com/cdancy/jenkins/rest/domain/job/Parameter.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.job.[PipelineNode](com/cdancy/jenkins/rest/domain/job/PipelineNode.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.plugins.[Plugin](com/cdancy/jenkins/rest/domain/plugins/Plugin.html "class in com.cdancy.jenkins.rest.domain.plugins")
-    *   com.cdancy.jenkins.rest.domain.plugins.[Plugins](com/cdancy/jenkins/rest/domain/plugins/Plugins.html "class in com.cdancy.jenkins.rest.domain.plugins") (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"))
-    *   com.cdancy.jenkins.rest.domain.job.[ProgressiveText](com/cdancy/jenkins/rest/domain/job/ProgressiveText.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.queue.[QueueItem](com/cdancy/jenkins/rest/domain/queue/QueueItem.html "class in com.cdancy.jenkins.rest.domain.queue")
-    *   com.cdancy.jenkins.rest.domain.common.[RequestStatus](com/cdancy/jenkins/rest/domain/common/RequestStatus.html "class in com.cdancy.jenkins.rest.domain.common") (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"), com.cdancy.jenkins.rest.domain.common.[Value](com/cdancy/jenkins/rest/domain/common/Value.html "interface in com.cdancy.jenkins.rest.domain.common")<T>)
-    *   com.cdancy.jenkins.rest.parsers.[RequestStatusParser](com/cdancy/jenkins/rest/parsers/RequestStatusParser.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.filters.[ScrubNullFolderParam](com/cdancy/jenkins/rest/filters/ScrubNullFolderParam.html "class in com.cdancy.jenkins.rest.filters") (implements org.jclouds.http.HttpRequestFilter)
-    *   com.cdancy.jenkins.rest.domain.job.[Stage](com/cdancy/jenkins/rest/domain/job/Stage.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.job.[StageFlowNode](com/cdancy/jenkins/rest/domain/job/StageFlowNode.html "class in com.cdancy.jenkins.rest.domain.job")
-    *   com.cdancy.jenkins.rest.domain.system.[SystemInfo](com/cdancy/jenkins/rest/domain/system/SystemInfo.html "class in com.cdancy.jenkins.rest.domain.system") (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"))
-    *   com.cdancy.jenkins.rest.parsers.[SystemInfoFromJenkinsHeaders](com/cdancy/jenkins/rest/parsers/SystemInfoFromJenkinsHeaders.html "class in com.cdancy.jenkins.rest.parsers") (implements com.google.common.base.Function<F,T>)
-    *   com.cdancy.jenkins.rest.domain.queue.[Task](com/cdancy/jenkins/rest/domain/queue/Task.html "class in com.cdancy.jenkins.rest.domain.queue")
+        *   com.cdancy.jenkins.rest.[JenkinsAuthentication](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsAuthentication.html)
+    *   com.cdancy.jenkins.rest.domain.crumb.[Crumb](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/crumb/Crumb.html) (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common"))
+    *   com.cdancy.jenkins.rest.parsers.[CrumbParser](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/CrumbParser.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.domain.job.[Culprit](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Culprit.html)
+    *   com.cdancy.jenkins.rest.domain.common.[Error](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/Error.html)
+    *   com.cdancy.jenkins.rest.domain.queue.[Executable](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/queue/Executable.html)
+    *   com.cdancy.jenkins.rest.parsers.[FolderPathParser](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/FolderPathParser.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.domain.common.[IntegerResponse](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/IntegerResponse.html) (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html), com.cdancy.jenkins.rest.domain.common.[Value](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/Value.html)<T>)
+    *   com.cdancy.jenkins.rest.[JenkinsAuthentication.Builder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsAuthentication.Builder.html)
+    *   com.cdancy.jenkins.rest.filters.[JenkinsAuthenticationFilter](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/filters/JenkinsAuthenticationFilter.html) (implements org.jclouds.http.HttpRequestFilter)
+    *   com.cdancy.jenkins.rest.config.[JenkinsAuthenticationProvider](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/config/JenkinsAuthenticationProvider.html) (implements com.google.inject.Provider<T>)
+    *   com.cdancy.jenkins.rest.[JenkinsClient](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsClient.html) (implements java.io.Closeable)
+    *   com.cdancy.jenkins.rest.[JenkinsClient.Builder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsClient.Builder.html)
+    *   com.cdancy.jenkins.rest.[JenkinsConstants](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsConstants.html)
+    *   com.cdancy.jenkins.rest.handlers.[JenkinsErrorHandler](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/handlers/JenkinsErrorHandler.html) (implements org.jclouds.http.HttpErrorHandler)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.html)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.CrumbOnError](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.CrumbOnError.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.IntegerResponseOnError](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.IntegerResponseOnError.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.JENKINS\_21311](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.JENKINS_21311.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.PluginsOnError](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.PluginsOnError.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.RequestStatusOnError](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.RequestStatusOnError.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.fallbacks.[JenkinsFallbacks.SystemInfoOnError](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/fallbacks/JenkinsFallbacks.SystemInfoOnError.html) (implements org.jclouds.Fallback<V>)
+    *   com.cdancy.jenkins.rest.filters.[JenkinsNoCrumbAuthenticationFilter](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/filters/JenkinsNoCrumbAuthenticationFilter.html) (implements org.jclouds.http.HttpRequestFilter)
+    *   com.cdancy.jenkins.rest.[JenkinsUtils](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsUtils.html)
+    *   com.cdancy.jenkins.rest.domain.job.[Job](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Job.html)
+    *   com.cdancy.jenkins.rest.domain.job.[JobInfo](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/JobInfo.html)
+    *   com.cdancy.jenkins.rest.domain.job.[JobList](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/JobList.html)
+    *   com.cdancy.jenkins.rest.parsers.[LocationToQueueId](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/LocationToQueueId.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.parsers.[OptionalFolderPathParser](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/OptionalFolderPathParser.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.parsers.[OutputToProgressiveText](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/OutputToProgressiveText.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.domain.statistics.[OverallLoad](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/statistics/OverallLoad.html)
+    *   com.cdancy.jenkins.rest.domain.job.[Parameter](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Parameter.html)
+    *   com.cdancy.jenkins.rest.domain.job.[PipelineNode](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/PipelineNode.html)
+    *   com.cdancy.jenkins.rest.domain.plugins.[Plugin](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/plugins/Plugin.html)
+    *   com.cdancy.jenkins.rest.domain.plugins.[Plugins](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/plugins/Plugins.html) (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html))
+    *   com.cdancy.jenkins.rest.domain.job.[ProgressiveText](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/ProgressiveText.html)
+    *   com.cdancy.jenkins.rest.domain.queue.[QueueItem](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/queue/QueueItem.html)
+    *   com.cdancy.jenkins.rest.domain.common.[RequestStatus](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/RequestStatus.html) (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html), com.cdancy.jenkins.rest.domain.common.[Value](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/Value.html)<T>)
+    *   com.cdancy.jenkins.rest.parsers.[RequestStatusParser](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/RequestStatusParser.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.filters.[ScrubNullFolderParam](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/filters/ScrubNullFolderParam.html) (implements org.jclouds.http.HttpRequestFilter)
+    *   com.cdancy.jenkins.rest.domain.job.[Stage](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Stage.html)
+    *   com.cdancy.jenkins.rest.domain.job.[StageFlowNode](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/StageFlowNode.html)
+    *   com.cdancy.jenkins.rest.domain.system.[SystemInfo](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/system/SystemInfo.html) (implements com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html))
+    *   com.cdancy.jenkins.rest.parsers.[SystemInfoFromJenkinsHeaders](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/parsers/SystemInfoFromJenkinsHeaders.html) (implements com.google.common.base.Function<F,T>)
+    *   com.cdancy.jenkins.rest.domain.queue.[Task](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/queue/Task.html)
     *   java.lang.Throwable (implements java.io.Serializable)
         *   java.lang.Exception
             *   java.lang.RuntimeException
-                *   com.cdancy.jenkins.rest.exception.[ForbiddenException](com/cdancy/jenkins/rest/exception/ForbiddenException.html "class in com.cdancy.jenkins.rest.exception")
-                *   com.cdancy.jenkins.rest.exception.[MethodNotAllowedException](com/cdancy/jenkins/rest/exception/MethodNotAllowedException.html "class in com.cdancy.jenkins.rest.exception")
-                *   com.cdancy.jenkins.rest.exception.[UnsupportedMediaTypeException](com/cdancy/jenkins/rest/exception/UnsupportedMediaTypeException.html "class in com.cdancy.jenkins.rest.exception")
-    *   com.cdancy.jenkins.rest.domain.job.[Workflow](com/cdancy/jenkins/rest/domain/job/Workflow.html "class in com.cdancy.jenkins.rest.domain.job")
+                *   com.cdancy.jenkins.rest.exception.[ForbiddenException](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/exception/ForbiddenException.html)
+                *   com.cdancy.jenkins.rest.exception.[MethodNotAllowedException](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/exception/MethodNotAllowedException.html)
+                *   com.cdancy.jenkins.rest.exception.[UnsupportedMediaTypeException](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/exception/UnsupportedMediaTypeException.html)
+    *   com.cdancy.jenkins.rest.domain.job.[Workflow](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/job/Workflow.html)
 
 ## Interface Hierarchy
 
 *   java.lang.AutoCloseable
     *   java.io.Closeable
-        *   com.cdancy.jenkins.rest.[JenkinsApi](com/cdancy/jenkins/rest/JenkinsApi.html "interface in com.cdancy.jenkins.rest")
-*   com.cdancy.jenkins.rest.features.[CrumbIssuerApi](com/cdancy/jenkins/rest/features/CrumbIssuerApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html "interface in com.cdancy.jenkins.rest.domain.common")
-*   com.cdancy.jenkins.rest.features.[JobsApi](com/cdancy/jenkins/rest/features/JobsApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.features.[PluginManagerApi](com/cdancy/jenkins/rest/features/PluginManagerApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.features.[QueueApi](com/cdancy/jenkins/rest/features/QueueApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.features.[StatisticsApi](com/cdancy/jenkins/rest/features/StatisticsApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.features.[SystemApi](com/cdancy/jenkins/rest/features/SystemApi.html "interface in com.cdancy.jenkins.rest.features")
-*   com.cdancy.jenkins.rest.domain.common.[Value](com/cdancy/jenkins/rest/domain/common/Value.html "interface in com.cdancy.jenkins.rest.domain.common")<T>
+        *   com.cdancy.jenkins.rest.[JenkinsApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/JenkinsApi.html)
+*   com.cdancy.jenkins.rest.features.[CrumbIssuerApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/CrumbIssuerApi.html)
+*   com.cdancy.jenkins.rest.domain.common.[ErrorsHolder](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/ErrorsHolder.html)
+*   com.cdancy.jenkins.rest.features.[JobsApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/JobsApi.html)
+*   com.cdancy.jenkins.rest.features.[PluginManagerApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/PluginManagerApi.html)
+*   com.cdancy.jenkins.rest.features.[QueueApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/QueueApi.html)
+*   com.cdancy.jenkins.rest.features.[StatisticsApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/StatisticsApi.html)
+*   com.cdancy.jenkins.rest.features.[SystemApi](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/features/SystemApi.html)
+*   com.cdancy.jenkins.rest.domain.common.[Value](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/domain/common/Value.html)<T>
 
 ## Enum Hierarchy
 
 *   java.lang.Object
     *   java.lang.Enum<E> (implements java.lang.Comparable<T>, java.io.Serializable)
-        *   com.cdancy.jenkins.rest.auth.[AuthenticationType](com/cdancy/jenkins/rest/auth/AuthenticationType.html "enum in com.cdancy.jenkins.rest.auth")
+        *   com.cdancy.jenkins.rest.auth.[AuthenticationType](https://cdancy.github.io/jenkins-rest/docs/javadoc/com/cdancy/jenkins/rest/auth/AuthenticationType.html)
 		
 ---
 
