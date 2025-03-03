@@ -1,21 +1,21 @@
 pipeline {
-   agent any
-   stages {
-       stage('Build') {
-           steps {
-               echo 'Building...'
-               // Your build commands here
-           }
-       }
-       stage('Test') {
-           steps {
-               echo 'Testing...'
-               // Your test commands here
-           }
-       }
-      stage('Secrets') {
-         stepts {
-            echo '           "Starting build process...\n" +
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building...'
+                // Your build commands here
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing...'
+                // Your test commands here
+            }
+        }
+        stage('Secrets') {
+            steps {
+                echo """           "Starting build process...\n" +
                         "Cloning repository...\n" +
                         "Setting AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE\n" +
                         "Setting AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\n" +
@@ -25,8 +25,8 @@ pipeline {
                         "credit-card=4111111111111111\n" +  // From sensitive-fields-simple.yml
                         "social_security_number=123-45-6789\n" +  // From pii-stable.yml
                         "Using GitHub token: ghp_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890\n" +
-                        "Build completed successfully.\n"'
-         }
-      }
-   }
+                        "Build completed successfully.\n";"""
+            }
+        }
+    }
 }
